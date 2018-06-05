@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>sk.cz.muni</groupId>
-  <artifactId>brewery</artifactId>
+  <artifactId>brew01</artifactId>
   <version>1.0.0</version>
   <packaging>kjar</packaging>
-  <name>Brewery</name>
+  <name>brew01</name>
   <description>Welcome to brewery, beer oriented company</description>
   <dependencies>
     <dependency>
