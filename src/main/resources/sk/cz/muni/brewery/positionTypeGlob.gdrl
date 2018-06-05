@@ -1,2 +1,3 @@
 package sk.cz.muni.brewery;
 
+global sk.cz.muni.brewery.positionType positionTypeGlob;
