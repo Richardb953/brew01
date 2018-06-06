@@ -14,7 +14,7 @@
             <resolver>mvel</resolver>
             <identifier>new org.jbpm.process.workitem.email.EmailWorkItemHandler("smtp.gmail.com"​, 587​, "bpmnkieworkbench@gmail.com"​, "bpmnTest123",​ true​)	;</identifier>
             <parameters/>
-            <name>mailWi</name>
+            <name>Email</name>
         </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
