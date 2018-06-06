@@ -1,10 +1,8 @@
 [
   [
     "name" : "Vyrob account", 
-    "parameters" : [ 
-    ], 
-    "results" : [ 
-    ], 
+    "parameters" : ,
+    "results" : ,
     "displayName" : "Vyrob account", 
     "icon" : "" 
   ]
