@@ -1,15 +1,13 @@
 [
   [
-    "name" : "MyTask", 
+    "name" : "Vyrob account", 
     "parameters" : [ 
-        "MyFirstParam" : new StringDataType(), 
-        "MySecondParam" : new StringDataType(), 
-        "MyThirdParam" : new ObjectDataType() 
+        "ucet" : "novy"
     ], 
     "results" : [ 
-        "Result" : new ObjectDataType("java.util.Map") 
+        "Result" : ""
     ], 
-    "displayName" : "My Task", 
+    "displayName" : "Vyrob account", 
     "icon" : "" 
   ]
 ]
