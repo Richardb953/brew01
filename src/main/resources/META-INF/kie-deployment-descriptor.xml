@@ -12,6 +12,12 @@
     <work-item-handlers>
         <work-item-handler>
             <resolver>mvel</resolver>
+            <identifier>new org.jbpm.process.instance.impl.demo.SystemOutWorkItemHandler()</identifier>
+            <parameters/>
+            <name>Createaccount</name>
+        </work-item-handler>
+        <work-item-handler>
+            <resolver>mvel</resolver>
             <identifier>new org.jbpm.process.workitem.email.EmailWorkItemHandler("localhost", "2525", "test@gmail.com", "heslo", "true");	</identifier>
             <parameters/>
             <name>Email</name>
