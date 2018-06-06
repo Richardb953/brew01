@@ -65,7 +65,7 @@
       <window>
         <parameters/>
       </window>
-      <entryPointName></entryPointName>
+      <entryPointName>povodne</entryPointName>
     </Pattern52>
     <Pattern52>
       <factType>positionConditions</factType>
@@ -108,7 +108,7 @@
       <window>
         <parameters/>
       </window>
-      <entryPointName></entryPointName>
+      <entryPointName>uzivatelske</entryPointName>
     </Pattern52>
   </conditionPatterns>
   <actionCols>
