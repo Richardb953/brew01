@@ -11,10 +11,10 @@
     <globals/>
     <work-item-handlers>
         <work-item-handler>
-            <resolver>mvel</resolver>
-            <identifier>new org.jbpm.process.workitem.email.EmailWorkItemHandler("smtp.gmail.com"​, 587​, "bpmnkieworkbench@gmail.com"​, "bpmnTest123",​ true​)</identifier>
+            <resolver>spring</resolver>
+            <identifier>new org.jbpm.process.workitem.email.EmailWorkItemHandler("smtp.gmail.com"​, 587​, "bpmnkieworkbench@gmail.com"​, "bpmnTest123",​ true​)	;</identifier>
             <parameters/>
-            <name>mailClient</name>
+            <name>mailWi</name>
         </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
